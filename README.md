@@ -14,7 +14,7 @@
 ###### 2. Install Dependencies
 #### composer install
 ###### 3. Setup Environmen
-#### cp .env.example .env"
+#### cp .env.example .env
 ###### Edit the .env file with your credentials.
 ###### 4. Generate Application Key
 #### php artisan key:generate
